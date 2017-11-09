@@ -1,2 +1,2 @@
 # BattleShipGame-Mac-
-A battle ship game for mac
+A java battle ship game for Mac.
